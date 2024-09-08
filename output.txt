@@ -1,0 +1,1 @@
+{"data":"C:\\Users\\david.DESKTOP-VUD2141\\Documents\\Clients\\EJ\\whisper-component\\.next\\server\\vendor-chunks\\ffmpeg.exe"}
