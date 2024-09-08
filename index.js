@@ -10,7 +10,7 @@ const app = express();
 const upload = multer({ storage: multer.memoryStorage() });
 
 // Set the FFmpeg path for fluent-ffmpeg
-const pathToFfmpeg = path.join(__dirname, "lib/ffmpeg/ffmpeg.exe");
+const pathToFfmpeg = path.join(__dirname, "lib/ffmpeg/ffmpeg");
 ffmpeg.setFfmpegPath(pathToFfmpeg);
 
 // Endpoint to convert WAV to MP3
